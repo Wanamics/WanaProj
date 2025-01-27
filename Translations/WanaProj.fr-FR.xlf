@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-FR" original="WanaProj.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1604854267 - Method 1733819516 - NamedType 3209814588" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no more space to insert %1 line(s) between lines %2 and  %3</source>
+          <target>Il n'y a pas assez d'espace pour insérer %1 ligne(s) entre les lignes %2 et %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit wan Purch. Lines Copy BlkOrder - Method InitNewLine - NamedType UnableToInsertErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 516336973 - Method 1733819516 - NamedType 3209814588" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is no more space to insert %1 line(s) between lines %2 and  %3</source>
+          <target>Il n'y a pas assez d'espace pour insérer %1 ligne(s) entre les lignes %2 et %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit wan Sales Lines Copy BlkOrder - Method InitNewLine - NamedType UnableToInsertErr</note>
+        </trans-unit>
+        <trans-unit id="Page 397278934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Blanket Orders</source>
+          <target>Commandes cadre achat</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Purchase BlkOrder Lookup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 397278934 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <target>Lignes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Purchase BlkOrder Lookup - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 397278934 - Action 127686680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Document</source>
+          <target>Affficher document</target>
+          <target>[NAB: SUGGESTION]Afficher document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Purchase BlkOrder Lookup - Action ShowDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 397278934 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target>Accueil</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Purchase BlkOrder Lookup - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1256593801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Blanket Orders</source>
+          <target>Commandes cadre vente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Sales Blanket Order Lookup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1256593801 - Action 1402615620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Line</source>
+          <target>Lignes</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Sales Blanket Order Lookup - Action &amp;Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1256593801 - Action 127686680 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Document</source>
+          <target>Affficher document</target>
+          <target>[NAB: SUGGESTION]Afficher document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Sales Blanket Order Lookup - Action ShowDocument - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1256593801 - Action 3383493608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target>Accueil</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page wan Sales Blanket Order Lookup - Action Category_Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4047299818 - Control 3299467854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Specifies the value of the Blanket Order No. field.</source>
+          <target>Spécifie la valeur du champ N° commande-cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Purch. Order BlkOrder - Control Blanket Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3745501776 - Action 1882285241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1521900543">
+          <source>Insert Blanket Order Lines</source>
+          <target>Insérer lignes cmde. cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Purchase Cr. Memo Subform - Action wanInsertBlanketOrderLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3181113340 - Action 1882285241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 896930563">
+          <source>Insert Blanket Order Lines</source>
+          <target>Insérer lignes cmde. cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Purchase Invoice Subform - Action wanInsertBlanketOrderLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2219346849 - Action 1882285241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 526152577">
+          <source>Insert Blanket Order Lines</source>
+          <target>Insérer lignes cmde. cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Purchase Order Subform - Action wanInsertBlanketOrderLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2967778168 - Control 3299467854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Blanket Order No. field.</source>
+          <target>Spécifie la valeur du champ N° commande-cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Sales Order BlkOrder - Control Blanket Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 894427016 - Action 117391060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Select Blanket Order Lines</source>
+          <target>Sélection des lignes de commande cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Sales Order Lines BlkOrder - Action wanSelectBlanketOrderLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3079568140 - Control 3299467854 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Specifies the value of the Blanket Order No. field.</source>
+          <target>Spécifie la valeur du champ N° commande-cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Sales Quote BlkOrder - Control Blanket Order No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 418562748 - Action 117391060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
+          <source>Select Blanket Order Lines</source>
+          <target>Sélection des lignes de commande cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Sales Quote Lines BlkOrder - Action wanSelectBlanketOrderLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3813467249 - Field 3329479086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Blanket Order No.</source>
+          <target>N° commande cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension wan Purch. Header BlkOrder - Field wan Blanket Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3629783785 - Field 3329479086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Blanket Order No.</source>
+          <target>N° commande cadre</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension wan Sales Header BlkOrder - Field wan Blanket Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4047299818 - Control 1908272084 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 387971303">
+          <source>Specifies the value of the Job No. field.</source>
+          <target>Spécifie la valeur du champ N° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Purch. Order JobTask - Control Job No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2967778168 - Control 1908272084 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Job No. field.</source>
+          <target>Spécifie la valeur du champ N° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Sales Order JobTask - Control Job No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3079568140 - Control 1908272084 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Specifies the value of the Job No. field.</source>
+          <target>Spécifie la valeur du champ N° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension wan Sales Quote JobTask - Control Job No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3813467249 - Field 1503272564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Job No.</source>
+          <target>N° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension wan Purch. Header JobTask - Field wan Job No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3813467249 - Field 1503272564 - Method 2126772001 - NamedType 2294662597" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 3813467249">
+          <source>Do you want to update %1 on all the lines?</source>
+          <target>Voulez-vous mettre à jour "%1" sur toutes les lignes ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension wan Purch. Header JobTask - Field wan Job No. - Method OnValidate - NamedType ConfirmMsg</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3629783785 - Field 1503272564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Job No.</source>
+          <target>N° projet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension wan Sales Header - Field wan Job No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3629783785 - Field 1503272564 - Method 2126772001 - NamedType 2294662597" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 3629783785">
+          <source>Do you want to update %1 on all the lines?</source>
+          <target>Voulez-vous mettre à jour "%1" sur toutes les lignes ?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension wan Sales Header - Field wan Job No. - Method OnValidate - NamedType ConfirmMsg</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
